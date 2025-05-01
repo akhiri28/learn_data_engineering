@@ -73,7 +73,7 @@ Roadmap
     - Previous Experience
     - Database Internals 
     - Dimension Modelling
-    - ETL / ELT Pattern - Lakehouse  | Mandolin Architecture
+    - ETL / ELT Pattern - Lakehouse  | Medallion Architecture
     - Batch vs Streaming (What and Why on Tools)
     - Security
     - Cost
