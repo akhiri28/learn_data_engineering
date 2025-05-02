@@ -34,8 +34,7 @@ Roadmap
 
 4. Cloud Engineering – AWS | Azure 
     - Resources - Databrcks - Prashant Pandey, ADF - Wafa | Ramesh, Synapse - Wafa
-    -         AWS               Azure
-              ----              -----    
+    -         AWS               Azure 
         -     S3        -       ADLS | BLOB
         -     EC2       -       VM Instance
         -     Glue      -       ADF
